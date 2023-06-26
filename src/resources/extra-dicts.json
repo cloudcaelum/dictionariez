@@ -1,0 +1,14 @@
+{
+  "extra": [
+    {
+      "dictName": "Treccani (Italiano)",
+      "windowUrl": "https://www.treccani.it/vocabolario/<word>/",
+      "css": ".module.module-header { display: none; } .module-search { display: none !important; }"
+    },
+    {
+      "dictName": "Wiktionary",
+      "windowUrl": "https://en.m.wiktionary.org/wiki/<word>",
+      "css": "header { display: none; } main { margin-top: 25px; }"
+    }
+  ]
+}
